@@ -134,3 +134,4 @@ android/.settings/org.eclipse.buildship.core.prefs
 android/app/.classpath
 android/app/.project
 android/app/.settings/
+lib/src/utils/settings.dart
